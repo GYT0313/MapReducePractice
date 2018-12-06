@@ -7,12 +7,12 @@ MapReduce框架练习题
 4. 单表关联
 
 复杂：singleTableLink
-简单：singleTableLink2
 
+简单：singleTableLink2
 5. 多表关联
 
 复杂：multiTableLink
-简单：multiTableLink2
 
+简单：multiTableLink2
 6. IP地址来源统计
 7. 倒排索引
