@@ -1,4 +1,4 @@
-# MapReducePractice
+# 🐼MapReducePractice
 MapReduce框架练习题
 
 1. wordcount词频统计
